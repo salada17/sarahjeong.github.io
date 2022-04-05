@@ -14,18 +14,18 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "sarajeong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "http://sarajeong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Agency Jekyll Theme Demo
 email      : salada17@naver.com #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author     : Your Name
+author     : Sarah Jeong
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
-locale: "en-US" # See available languages in _data/sitetext.yml
+locale: "Ko" # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here
