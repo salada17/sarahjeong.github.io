@@ -42,3 +42,5 @@ highlighter: rouge
 
 plugins:
   - jekyll-remote-theme
+
+theme: jekyll-theme-minimal
